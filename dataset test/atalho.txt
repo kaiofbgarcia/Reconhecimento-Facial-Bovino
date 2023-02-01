@@ -1,0 +1,5 @@
+TREINO
+python training.py --granja test --model resnet50 --epochs 20 --batch_size 30
+
+TESTE
+python testing.py --granja test  --img "C:\Users\kaiof\Desktop\cattle-recognition-master\imgTest\VacaChifre\Img1.jpeg"
