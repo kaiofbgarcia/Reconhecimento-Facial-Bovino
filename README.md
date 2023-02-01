@@ -36,7 +36,7 @@ O resultado é apresentado da seguinte forma:
 
 ## Licença 
 
-Segundo o repositorio original o presente código é livre. Qualquer pessoa é livre de copiar, modificar, publicar, utilizar, compilar, vender, ou distribuir este software. 
+**Segundo o repositorio original o presente código é livre. Qualquer pessoa é livre de copiar, modificar, publicar, utilizar, compilar, vender, ou distribuir este software.** 
 
 "This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
