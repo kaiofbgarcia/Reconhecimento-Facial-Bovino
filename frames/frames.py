@@ -10,9 +10,3 @@ def FrameCapture(path):
         count += 1
 if __name__ == '__main__': 
     FrameCapture("C:\\Users\\kaiof\\Desktop\\Imagens de Teste\\Branquinha48 Test\\I1.mp4") #Colocar caminho para o video desejado
-
-
-
-
-
-    
